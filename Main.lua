@@ -22,4 +22,4 @@ end)
 Options.AutoFarmTogggle.SetValue(false)
 
     
-return InterfaceManager
+return main
